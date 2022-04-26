@@ -1,0 +1,2 @@
+#The Dice Roller app
+This is an Android app created uisng Kotlin to help me learn how to code in Kotlin. It includes Oject Oriented Principles and conditional statements to make the code efficient and reduce redundancy.
